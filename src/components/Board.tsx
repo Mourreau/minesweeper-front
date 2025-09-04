@@ -1,5 +1,4 @@
 // src/components/Board.tsx
-import React from "react";
 import type { GameStateDto } from "../api/games";
 import { Cell } from "./Cell";
 
